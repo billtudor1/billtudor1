@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning k6/nde/JS
 - 💞️ I’m looking to collaborate on the k6 load testing project
 - 📫 How to reach me bill.tudor1@collinsongroup.com
-- ⚡ Fun fact: there are more questions than answers (depite AI)
+- ⚡ Fun fact: there are more questions than answers (despite AI's best efforts)
 
 <!---
 billtudor1/billtudor1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
